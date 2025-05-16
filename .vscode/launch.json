@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalculoIMC",
+            "request": "launch",
+            "mainClass": "com.mycompany.CalculoIMC",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Aula06Condicional",
             "request": "launch",
             "mainClass": "com.mycompany.Aula06Condicional",
