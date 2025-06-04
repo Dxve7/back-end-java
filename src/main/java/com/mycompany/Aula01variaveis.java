@@ -1,6 +1,6 @@
 package com.mycompany;
 
-public class Aula01variáveis {
+public class Aula01variaveis {
     public static void main(String[] args) {
         // Variavel lógica
 
